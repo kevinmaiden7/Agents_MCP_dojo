@@ -1,1 +1,6 @@
 llama-index-llms-huggingface-api==0.6.0
+llama-index==0.13.6
+llama-index-callbacks-arize-phoenix==0.6.0
+arize-phoenix==11.32.1
+llama-index-vector-stores-chroma==0.5.2
+llama-index-embeddings-huggingface==0.6.0
