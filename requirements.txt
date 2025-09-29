@@ -5,3 +5,5 @@ arize-phoenix==11.32.1
 llama-index-vector-stores-chroma==0.5.2
 llama-index-embeddings-huggingface==0.6.0
 llama-index-tools-google==0.6.1
+langgraph==0.6.7
+langchain-openai==0.3.33
