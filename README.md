@@ -5,7 +5,7 @@
 - [HuggingFace Agents Course](https://huggingface.co/learn/agents-course/en/unit0/introduction)
 - [HuggingFace MCP Course](https://huggingface.co/learn/mcp-course/en/unit0/introduction)
 
-### (Agents Course) LangChain Document Analysis Workflow
+### (Agents Course) LangGraph Document Analysis Workflow
 
 Run ollama Multimodal Model (for Computer Vision Capabilities):
 
