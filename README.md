@@ -25,3 +25,11 @@ Run ollama Multimodal Model (for Computer Vision Capabilities):
 ```bash
 ollama run gemma3:4b
 ```
+
+### (MCP Course) MCP SDK
+
+Run development MCP server (+ MCP Inspector UI):
+
+```bash
+..\Agents_MCP_dojo\MCP> mcp dev server.py
+```
