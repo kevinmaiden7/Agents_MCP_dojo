@@ -218,3 +218,6 @@ __marimo__/
 # Chroma
 chroma.sqlite3
 llamaindex/chroma_db/
+
+# Gradio
+.gradio/
