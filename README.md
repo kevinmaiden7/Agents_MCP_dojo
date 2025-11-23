@@ -31,5 +31,5 @@ ollama run gemma3:4b
 Run development MCP server (+ MCP Inspector UI):
 
 ```bash
-..\Agents_MCP_dojo\MCP> mcp dev server.py
+..\Agents_MCP_dojo\MCP> mcp dev mcp_server.py
 ```
