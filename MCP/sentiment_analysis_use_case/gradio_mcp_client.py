@@ -16,7 +16,7 @@ def run_client() -> None:
     try:
         print(f"Establishing connection to {MCP_SERVER}")
         with MCPClient({"url": MCP_SERVER, "transport": "sse"}, structured_output=True) as tools:
-            # Tools from the remote server are available
+            # Which tools from the remote server are available
             print("Tools:")
             print("\n".join(f"{t.name}: {t.description}" for t in tools))
 

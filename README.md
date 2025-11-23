@@ -33,3 +33,7 @@ Run development MCP server (+ MCP Inspector UI):
 ```bash
 ..\Agents_MCP_dojo\MCP> mcp dev mcp_server.py
 ```
+
+### (MCP Course) Gradio MCP Server-Client: Sentiment Analysis Use Case
+
+MCP Server Deployed on HuggingFace Spaces: [kevinmaiden7-mcp-sentiment.hf.space](https://kevinmaiden7-mcp-sentiment.hf.space)
